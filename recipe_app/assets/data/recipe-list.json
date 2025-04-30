@@ -1,0 +1,106 @@
+[
+    {
+      "id": "plain-cake",
+      "title": "Plain Cake",
+      "description": "This is just a boring plain cake",
+      "img": "https://live.staticflickr.com/6066/6064302961_4967003736_z.jpg",
+      "imgCredits": "Image licensed under <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\" target=\"_blank\">Attribution-NonCommercial-NoDerivs</a> by <a href=\"www.chocolate-dessert-recipes.com/\">www.chocolate-dessert-recipes.com</a>",
+      "imgAlt": "Plain Cake",
+      "tags": [
+        "vegetarian",
+        "dessert"
+      ],
+      "serves": 4,
+      "prep": 10,
+      "cook": 25,
+      "ingredients": [
+        "1 cup of flour",
+        "2 eggs",
+        "1/2 cup of milk",
+        "1 tbsp of sugar"
+      ],
+      "tools": [
+        "Oven",
+        "Bowl",
+        "Baking Dish"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C)",
+        "Mix all the ingredients in a bowl.",
+        "Pour the mixture into a baking dish.",
+        "Bake for 25 minutes or until golden brown."
+      ]
+    },
+    {
+      "id": "tonkatsu",
+      "title": "Tonkatsu",
+      "description": "Because who doesn't love fried food.",
+      "img": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imgCredits": "Photo by <a href=\"https://unsplash.com/@stefentan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Stefen Tan</a> on <a href=\"https://unsplash.com/photos/fried-dish-on-round-black-plate-_sfMD-OhFR8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>",
+      "imgAlt": "Tonkatsu",
+      "tags": [
+        "fried",
+        "japanese"
+      ],
+      "serves": 2,
+      "prep": 15,
+      "cook": 5,
+      "ingredients": [
+        "1 pork cutlet",
+        "1 beaten egg",
+        "1/2 cup of panko",
+        "1 tbsp flour",
+        "Some salt and pepper for seasoning",
+        "Enough oil for frying"
+      ],
+      "tools": [
+        "Stove",
+        "1 bowl each for panko, flour, and egg",
+        "Frying Pan",
+        "Mallet"
+      ],
+      "instructions": [
+        "Smash pork evenly until approx 0.5 cm thick (use ziplock bag or clingwrap for easier cleanup).",
+        "Season cutlets with salt and pepper.",
+        "Put cutlet into bowl of flour and coat evenly, then follow up with egg and panko.",
+        "Heat up oil in frying pan.",
+        "Fry cutlet until golden brown on both sides (approx 2-3 minutes per side).",
+        "Lay out on paper towls to dry and cool down.",
+        "Eat with rice, cabbage, curry, or whatever your heart desires."
+      ]
+    },
+    {
+      "id": "onigiri",
+      "title": "Onigiri",
+      "description": "Rice and Filling, what more could anyone ever need?",
+      "img": "https://images.unsplash.com/photo-1606672707344-56ec6c7df55a?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imgCredits": "Photo by <a href=\"https://unsplash.com/@grissphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Max Griss</a> on <a href=\"https://unsplash.com/photos/person-holding-white-and-brown-cake-WkscgH9qUa0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>",
+      "imgAlt": "Onigiri",
+      "tags": [
+        "japanese",
+        "snack"
+      ],
+      "serves": 2,
+      "prep": 30,
+      "cook": 15,
+      "ingredients": [
+        "1 cup of rice",
+        "1 tbsp of filling (tuna, salmon, etc.)",
+        "Seaweed (optional)"
+      ],
+      "tools": [
+        "Rice Cooker",
+        "Bowl",
+        "Plastic Wrap"
+      ],
+      "instructions": [
+        "Cook rice as you normally would",
+        "Prepare fillings.",
+        "Put plastic wrap in bowl.",
+        "Dump ~1 large spoon of rice into bowl.",
+        "Create small divet in rice to place 2 tsp of fillings into.",
+        "Use plastic wrap to fold rice over fillings and squeeze to form triangular shape.",
+        "Repeat with rest of rice/fillings."
+      ]
+    }
+  ]
